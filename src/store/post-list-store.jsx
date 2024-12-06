@@ -62,7 +62,7 @@ const DEFAULT_POSTLIST=[
   reactions : '600M',
   userId : 'unknown-9',
   tags:['ParisVibes' ,'TravelDiaries', 'CityOfLove'] ,
-  image : "./images/paris.jpg"
+  image : "./paris.jpg"
   },
   {id: '2',
     title : "Hidden heaven. A Home in Nature 🌳🏡",
@@ -70,7 +70,7 @@ const DEFAULT_POSTLIST=[
     reactions : '900k',
     userId : 'unknown-4',
     tags:['ForestHideaway', 'PeacefulLiving'],
-    image : "./images/p.jpg"
+    image : "./p.jpg"
   },
   {id: '3',
     title : "Shaping Tomorrow with AI 🤖✨",
@@ -78,7 +78,7 @@ const DEFAULT_POSTLIST=[
     reactions : '243k',
     userId : 'unknown-4',
     tags:['ArtificialIntelligence', 'TechInnovation', 'FutureIsNow'],
-    image : "./images/p4.jpg"
+    image : "./p4.jpg"
   }
 
   ]
