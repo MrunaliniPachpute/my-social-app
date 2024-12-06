@@ -1,0 +1,46 @@
+.app-container{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+.sideBar{
+  height: 650px;
+}
+
+.post-card{
+  margin: 30px;
+}
+
+.hashtag{
+  margin: 0px 3px;
+}
+
+.search-bar{
+  background-color: rgb(212, 213, 214) !important;
+} 
+
+.del-button{
+  background-color: #fff;
+  border: none;
+}
+.input-comment{
+  background-color: rgb(212, 213, 214) !important;
+  margin-top: 10px;
+  margin-left: 21px;
+  border-radius: 15px;
+}
+
+.create-post{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
+
+
+.postcard-container{
+  display: flex; /* Flexbox for horizontal alignment */
+  flex-wrap: wrap; /* Ensures posts wrap to the next line if space is insufficient */
+  /* gap: 20px; Adds space between posts */
+  justify-content: space-evenly; 
+}
