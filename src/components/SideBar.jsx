@@ -29,7 +29,7 @@ const SideBar = ({selectedTab, setSelectedTab}) =>{
     <hr/>
     <div className="dropdown">
       <a href="#" className="d-flex align-items-center text-white text-decoration-none dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-        <img src="./images/log.jpg" alt="" width="50" height="50" className="rounded-circle me-2"/>
+        <img src="../../images/log.jpg" alt="" width="50" height="50" className="rounded-circle me-2"/>
         <strong>Mrunalini</strong>
       </a>
       <ul className="dropdown-menu dropdown-menu-dark text-small shadow" style={{}}>
